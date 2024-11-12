@@ -20,6 +20,7 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 - [SQL studies](#sql-studies)
   - Le Wagon courses 
 
+---
 
 ### SQL Studies ###
 
