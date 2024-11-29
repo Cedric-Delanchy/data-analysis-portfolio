@@ -8,9 +8,9 @@ I've realised that analytics was always a part of the roles I've assumed and tha
 
 This portfolio is here for two reasons: 
 - give me a space where I can centralize my practice in different aspects of data analysis,
-- showcase some work I've done in order to craft my knowledge and my skills.
+- showcase some work I've done in order to continuously craft my knowledges and my skills.
 
-Also, I'm working as a Data Product Manager/Product owner data freelance. So, if you're interested to work with me you can check my [resume in English](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/Resume_Cedric-Delanchy_EN.pdf) or [in French](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/CV-Cedric_Delanchy.pdf).
+Also, I'm working as a freelance Data Product Manager/Product owner data/Product analyst. So, if you're interested to work with me you can check my [resume in English](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/Resume_Cedric-Delanchy_EN.pdf) or [in French](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/CV-Cedric_Delanchy.pdf).
 
 ## Table of Contents ##
 
@@ -25,8 +25,55 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 
 ### My Stack ###
 
+Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack/
+
+#### Language ####
+
+- SQL (advanced)
+- Python (beginner)
+- Python (ML) (beginner)
+
+#### Dataviz ####
+
+- Metabase (advanced)
+- Power BI (advanced)
+- Looker (advanced)
+
+#### Data ####
+
+- DBT
+- Fivetran
+- Census (beginner)
+
+#### Tracking ####
+
+- GTM (intermediate)
+- Segment (advanced)
+- Mixpanel
+- June.so
+- GA4
+
+#### Testing #### 
+
+- Hotjar
+
+#### API ####
 
 
+#### Management ####
+
+- Clickup
+
+#### GDPR ####
+
+- Cookiebot
+
+#### Tools I'm planning to learn ####
+
+- Retool
+- Addingwell
+
+- 
 
 ---
 
