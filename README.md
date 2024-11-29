@@ -58,6 +58,21 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 - Hotjar
 
+### Marketing ###
+
+- Mailjet
+- Canva
+- Customer.io
+- Klaviyo
+- Taguchi
+
+### CMS ###
+
+- shopify
+- Prismic
+- Strapi
+- Jahia
+
 ### API ###
 
 
@@ -74,7 +89,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Retool
 - Addingwell
 
-- 
+
 
 ---
 
