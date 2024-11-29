@@ -17,8 +17,16 @@ Also, I'm working as a Data Product Manager/Product owner data freelance. So, if
 It will help you navigate my portfolio. As a note, it's a work in progress at this stage. 
 
 - [About me](#about-me)
+- [My stack](#my-stack)
 - [SQL studies](#sql-studies)
   - Le Wagon courses 
+
+---
+
+### My Stack ###
+
+
+
 
 ---
 
