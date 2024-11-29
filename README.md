@@ -94,6 +94,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Prismic
 - Strapi
 - Jahia
+- Wordpress
 </details>
 
 <details>
@@ -126,7 +127,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - N8N
 </details>
 
-But above that, I made sure to learn the necessary skills that will allow me to 
+But above that, I made sure to have the inherent skills so I can switch to new tools I'm not familiar with easily. 
 
 ---
 
