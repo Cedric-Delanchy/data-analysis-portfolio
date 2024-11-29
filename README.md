@@ -29,7 +29,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
   <summary> LANGUAGE </summary>
-<br>
+
 - SQL (advanced)
 - Python (beginner)
 - Python (ML) (beginner)
