@@ -25,7 +25,7 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 
 ## My Stack ##
 
-Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack.
+Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack. But above that, I made sure to have the inherent skills so I can switch to new tools I'm not familiar with easily. 
 
 <details>
   <summary> LANGUAGE </summary>
@@ -126,8 +126,6 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - SQLMesh
 - N8N
 </details>
-
-But above that, I made sure to have the inherent skills so I can switch to new tools I'm not familiar with easily. 
 
 ---
 
