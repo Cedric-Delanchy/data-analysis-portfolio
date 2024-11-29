@@ -36,7 +36,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-### DATAVIZ ###
+   <summary> DATAVIZ </summary>
 
 - Metabase (advanced)
 - Power BI (advanced)
@@ -44,7 +44,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-### DATA HANDLING ###
+   <summary> DATA HANDLING </summary>
 
 - DBT
 - Fivetran
@@ -53,7 +53,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-### TRACKING ###
+   <summary> TRACKING </summary>
 
 - GTM (intermediate)
 - Segment (advanced)
@@ -63,13 +63,13 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-### Testing ###
+   <summary> Testing </summary>
 
 - Hotjar
 </details>
 
 <details>
-### Marketing ###
+   <summary> Marketing </summary>
 
 - Mailjet
 - Canva
@@ -79,7 +79,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-### CMS ###
+   <summary> CMS </summary>
 
 - shopify
 - Prismic
@@ -88,24 +88,24 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-### API ###
+   <summary> API </summary>
 
 </details>
 
 <details>
-### MANAGEMENT ###
+   <summary> MANAGEMENT </summary>
 
 - Clickup
 </details>
 
 <details>
-#### GDPR ####
+  <summary> GDPR </summary>
 
 - Cookiebot
 </details>
 
 <details>
-#### Tools I'm planning to learn ####
+   <summary> Tools I'm planning to learn </summary>
 
 - Retool
 - Addingwell
