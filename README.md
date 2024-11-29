@@ -63,13 +63,13 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-   <summary> Testing </summary>
+   <summary> TESTING </summary>
 
 - Hotjar
 </details>
 
 <details>
-   <summary> Marketing </summary>
+   <summary> MARKETING </summary>
 
 - Mailjet
 - Canva
