@@ -81,9 +81,9 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-  <summary>Automation</summary>
-    - Make
-    - Zapier
+  <summary>AUTOMATION</summary>
+- Make
+- Zapier
 </details>
 
 <details>
