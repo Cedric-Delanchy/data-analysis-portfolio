@@ -37,7 +37,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> DATAVIZ </summary>
-<br>
+
 - Metabase (advanced)
 - Power BI (advanced)
 - Looker (advanced)
@@ -45,7 +45,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> DATA </summary>
-<br>
+
 - DBT
 - Fivetran
 - Census (beginner)
@@ -55,7 +55,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> TRACKING </summary>
-<br>
+
 - GTM (intermediate)
 - Segment (advanced)
 - Mixpanel
@@ -65,13 +65,13 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> TESTING </summary>
-<br>
+
 - Hotjar
 </details>
 
 <details>
    <summary> MARKETING </summary>
-<br>
+
 - Mailjet
 - Canva
 - Customer.io
@@ -82,7 +82,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> CMS </summary>
-<br>
+
 - Shopify
 - Prismic
 - Strapi
@@ -91,12 +91,12 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> API </summary>
-<br>
+
 </details>
 
 <details>
    <summary> MANAGEMENT </summary>
-<br>
+
 - Clickup
 - Notion
 - Redmine
@@ -110,7 +110,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> Tools I'm planning to learn </summary>
-<br>
+
 - Retool
 - Addingwell
 - Rudderstack
