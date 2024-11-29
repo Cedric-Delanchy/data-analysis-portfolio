@@ -27,25 +27,26 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 
 Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack/
 
-#### Language ####
+#### LANGUAGE ####
 
 - SQL (advanced)
 - Python (beginner)
 - Python (ML) (beginner)
 
-#### Dataviz ####
+#### DATAVIZ ####
 
 - Metabase (advanced)
 - Power BI (advanced)
 - Looker (advanced)
 
-#### Data ####
+#### DATA HANDLING ####
 
 - DBT
 - Fivetran
 - Census (beginner)
+- Bigquery
 
-#### Tracking ####
+#### TRACKING ####
 
 - GTM (intermediate)
 - Segment (advanced)
@@ -60,7 +61,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 #### API ####
 
 
-#### Management ####
+#### MANAGEMENT ####
 
 - Clickup
 
