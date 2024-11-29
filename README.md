@@ -23,30 +23,30 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 
 ---
 
-### My Stack ###
+## My Stack ##
 
 Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack/
 
-#### LANGUAGE ####
+### LANGUAGE ###
 
 - SQL (advanced)
 - Python (beginner)
 - Python (ML) (beginner)
 
-#### DATAVIZ ####
+### DATAVIZ ###
 
 - Metabase (advanced)
 - Power BI (advanced)
 - Looker (advanced)
 
-#### DATA HANDLING ####
+### DATA HANDLING ###
 
 - DBT
 - Fivetran
 - Census (beginner)
 - Bigquery
 
-#### TRACKING ####
+### TRACKING ###
 
 - GTM (intermediate)
 - Segment (advanced)
@@ -54,14 +54,14 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - June.so
 - GA4
 
-#### Testing #### 
+### Testing ###
 
 - Hotjar
 
-#### API ####
+### API ###
 
 
-#### MANAGEMENT ####
+### MANAGEMENT ###
 
 - Clickup
 
@@ -78,6 +78,6 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 ---
 
-### SQL Studies ###
+## SQL Studies ##
 
 In this particular section I will gather the different projects/courses I've done around to progress using SQL. 
