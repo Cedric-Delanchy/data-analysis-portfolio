@@ -25,7 +25,7 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 
 ## My Stack ##
 
-Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack/
+Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack.
 
 <details>
   <summary> LANGUAGE </summary>
@@ -81,6 +81,12 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
+  <summary>Automation<summary>
+    - Make
+    - Zapier
+</details>
+
+<details>
    <summary> CMS </summary>
 
 - Shopify
@@ -100,6 +106,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Clickup
 - Notion
 - Redmine
+- Trello
 </details>
 
 <details>
@@ -115,7 +122,10 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Addingwell
 - Rudderstack
 - SQLMesh
+- N8N
 </details>
+
+But above that, I made sure to learn the necessary skills that will allow me to 
 
 ---
 
