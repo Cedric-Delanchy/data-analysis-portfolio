@@ -44,12 +44,13 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 </details>
 
 <details>
-   <summary> DATA HANDLING </summary>
+   <summary> DATA </summary>
 
 - DBT
 - Fivetran
 - Census (beginner)
 - Bigquery
+- MongoDB
 </details>
 
 <details>
@@ -76,12 +77,13 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Customer.io
 - Klaviyo
 - Taguchi
+- Canny.io
 </details>
 
 <details>
    <summary> CMS </summary>
 
-- shopify
+- Shopify
 - Prismic
 - Strapi
 - Jahia
@@ -96,6 +98,8 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
    <summary> MANAGEMENT </summary>
 
 - Clickup
+- Notion
+- Redmine
 </details>
 
 <details>
