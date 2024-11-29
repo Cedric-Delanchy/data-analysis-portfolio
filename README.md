@@ -35,19 +35,24 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Python (ML) (beginner)
 </details>
 
+<details>
 ### DATAVIZ ###
 
 - Metabase (advanced)
 - Power BI (advanced)
 - Looker (advanced)
+</details>
 
+<details>
 ### DATA HANDLING ###
 
 - DBT
 - Fivetran
 - Census (beginner)
 - Bigquery
+</details>
 
+<details>
 ### TRACKING ###
 
 - GTM (intermediate)
@@ -55,11 +60,15 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Mixpanel
 - June.so
 - GA4
+</details>
 
+<details>
 ### Testing ###
 
 - Hotjar
+</details>
 
+<details>
 ### Marketing ###
 
 - Mailjet
@@ -67,31 +76,42 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Customer.io
 - Klaviyo
 - Taguchi
+</details>
 
+<details>
 ### CMS ###
 
 - shopify
 - Prismic
 - Strapi
 - Jahia
+</details>
 
+<details>
 ### API ###
 
+</details>
 
+<details>
 ### MANAGEMENT ###
 
 - Clickup
+</details>
 
+<details>
 #### GDPR ####
 
 - Cookiebot
+</details>
 
+<details>
 #### Tools I'm planning to learn ####
 
 - Retool
 - Addingwell
-
-
+- Rudderstack
+- SQLMesh
+</details>
 
 ---
 
