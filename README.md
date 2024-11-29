@@ -19,7 +19,7 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 - [About me](#about-me)
 - [My stack](#my-stack)
 - [SQL studies](#sql-studies)
-  - Le Wagon courses 
+  - [Le Wagon courses](
 
 ---
 
@@ -131,6 +131,8 @@ But above that, I made sure to have the inherent skills so I can switch to new t
 
 ---
 
-## SQL Studies ##
+[## SQL Studies ##](https://github.com/Cedric-Delanchy/sql-studies-portfolio)
 
 In this particular section I will gather the different projects/courses I've done around to progress using SQL. 
+
+- [Le Wagon courses](https://github.com/Cedric-Delanchy/sql-studies-portfolio/tree/main/le-wagon-sql)
