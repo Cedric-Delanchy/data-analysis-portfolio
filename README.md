@@ -17,12 +17,19 @@ Also, I'm working as a freelance Data Product Manager/Product owner data/Product
 It will help you navigate my portfolio. As a note, it's a work in progress at this stage. 
 
 - [About me](#about-me)
+- [My certifications](#my-certifications)
 - [My stack](#my-stack)
 - [SQL studies](#sql-studies)
   - [Le Wagon courses](https://github.com/Cedric-Delanchy/sql-studies-portfolio/tree/main/le-wagon-sql)
 
 ---
+## My Certifications ## 
 
+- Bootcamp Data Analyst - Le Wagon
+- Product Owner Certification - OpenClassrooms
+- Maîtrise de la qualité en projet web - Opquast
+
+---
 ## My Stack ##
 
 Throughout my career I had to use and apprehend a variety of tools to achieve the goals assigned to me. Here is a list of some of elements in my stack. But above that, I made sure to have the inherent skills so I can switch to new tools I'm not familiar with easily. 
