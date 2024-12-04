@@ -37,17 +37,18 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 <details>
   <summary> LANGUAGE </summary>
 
-- SQL (advanced)
-- Python (beginner)
-- Python (ML) (beginner)
+- SQL
+- Python
+- Python (ML)
 </details>
 
 <details>
    <summary> DATAVIZ </summary>
 
-- Metabase (advanced)
-- Power BI (advanced)
-- Looker (advanced)
+- Metabase
+- Power BI
+- Looker
+- Tableau
 </details>
 
 <details>
@@ -55,9 +56,10 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 - DBT
 - Fivetran
-- Census (beginner)
+- Census
 - Bigquery
 - MongoDB
+- Airflow
 </details>
 
 <details>
@@ -116,17 +118,19 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Notion
 - Redmine
 - Trello
+- Miro / Mural
 </details>
 
 <details>
   <summary> GDPR </summary>
-<br>
 - Cookiebot
 </details>
 
 <details>
-   <summary> Tools I'm planning to learn </summary>
-
+   <summary> Tools I'm planning on building skills </summary>
+- Databricks
+- Spark
+- Castor Doc
 - Retool
 - Addingwell
 - Rudderstack
