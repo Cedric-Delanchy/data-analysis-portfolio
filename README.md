@@ -87,6 +87,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 - Klaviyo
 - Taguchi
 - Canny.io
+- Mobile Action
 </details>
 
 <details>
