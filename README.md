@@ -21,6 +21,8 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 - [My stack](#my-stack)
 - [SQL studies](#sql-studies)
   - [Le Wagon courses](https://github.com/Cedric-Delanchy/sql-studies-portfolio/tree/main/le-wagon-sql)
+- [Dataviz](#dataviz)
+  - [Olist Dashboard]() 
 
 ---
 ## My Certifications ## 
@@ -146,3 +148,10 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 In this particular section I will gather the different projects/courses I've done around to progress using SQL. 
 
 - [Le Wagon courses](https://github.com/Cedric-Delanchy/sql-studies-portfolio/tree/main/le-wagon-sql)
+
+---
+
+## Dataviz ##
+
+- Olist Dashboard (Tableau)
+
