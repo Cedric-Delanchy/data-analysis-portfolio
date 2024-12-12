@@ -151,7 +151,7 @@ In this particular section I will gather the different projects/courses I've don
 
 ---
 
-## Dataviz ##
+## [Dataviz](https://github.com/Cedric-Delanchy/dataviz/tree/main) ##
 
 - Olist Dashboard (Tableau)
 
