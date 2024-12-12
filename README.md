@@ -145,7 +145,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 ---
 
-: computer: ## [SQL Studies](https://github.com/Cedric-Delanchy/sql-studies-portfolio) ##
+:computer: ## [SQL Studies](https://github.com/Cedric-Delanchy/sql-studies-portfolio) ##
 
 In this particular section I will gather the different projects/courses I've done around to progress using SQL. 
 
