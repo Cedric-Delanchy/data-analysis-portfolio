@@ -61,6 +61,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 - DBT
 - Fivetran
+- Dataiku
 - Census
 - Bigquery
 - MongoDB
