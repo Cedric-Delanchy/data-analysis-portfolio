@@ -28,6 +28,7 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 ## My Certifications ## 
 
 - Bootcamp Data Analyst - Le Wagon
+- [Dataiku Core Designer](https://verify.skilljar.com/c/aee2mj6h3m4q)
 - [Product Owner Certification](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/Certification-PO_OpenClassrooms.pdf) - OpenClassrooms
 - [Maîtrise de la qualité en projet web](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/certification_opquast.pdf) - Opquast
 - Advanced Google Analytics (2019)
