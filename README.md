@@ -43,8 +43,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
   <summary> LANGUAGE </summary>
 
 - SQL
-- Python
-- Python (ML)
+- Python (Basic)
 </details>
 
 <details>
