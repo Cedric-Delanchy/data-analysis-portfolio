@@ -148,7 +148,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 ---
 
-## SQL Studies ## :computer:
+## SQL Studies ##
 
 In this particular section I will gather the different projects/courses I've done around to progress using SQL. 
 
