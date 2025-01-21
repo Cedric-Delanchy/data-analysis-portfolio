@@ -152,7 +152,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 In this particular section I will gather the different projects/courses I've done around to progress using SQL. 
 
-- [Le Wagon courses](https://github.com/Cedric-Delanchy/sql-studies-portfolio)
+- [Le Wagon courses](https://github.com/Cedric-Delanchy/sql-studies-portfolio/tree/main/le-wagon-sql)
 
 ---
 
