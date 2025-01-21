@@ -135,6 +135,7 @@ Throughout my career I had to use and apprehend a variety of tools to achieve th
 
 <details>
    <summary> Tools I'm planning on building skills </summary>
+- Snowflake
 - Databricks
 - Spark
 - Castor Doc
