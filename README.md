@@ -22,7 +22,7 @@ It will help you navigate my portfolio. As a note, it's a work in progress at th
 - [SQL studies](#sql-studies)
   - [Le Wagon courses](https://github.com/Cedric-Delanchy/sql-studies-portfolio/tree/main/le-wagon-sql)
 - [Dataviz](#dataviz)
-  - [Olist Dashboard]() 
+  - Olist Dashboard 
 
 ---
 ## My Certifications ## 
