@@ -10,7 +10,7 @@ This portfolio is here for two reasons:
 - give me a space where I can centralize my practice in different aspects of data analysis,
 - showcase some work I've done in order to continuously craft my knowledges and skills.
 
-Also, I'm working as a freelance Data Product Manager/Product owner data/Product analyst. So, if you're interested to work with me you can check my [resume in English](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/Resume_Cedric-Delanchy_EN.pdf) or [in French](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/CV-Cedric-Delanchy.pdf).
+Also, I'm working as a freelance Data Product Manager/Product owner. So, if you're interested to work with me you can check my [resume in English](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/Resume_Cedric-Delanchy_EN.pdf) or [in French](https://github.com/Cedric-Delanchy/data-analysis-portfolio/blob/main/CV-Cedric-Delanchy.pdf).
 
 ## Table of Contents ##
 
